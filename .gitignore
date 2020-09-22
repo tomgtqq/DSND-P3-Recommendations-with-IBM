@@ -1,0 +1,9 @@
+
+.DS_Store
+data/articles_community.csv
+data/user-item-interactions.csv
+Recommendations_with_IBM-zh.ipynb
+top_10.p
+top_20.p
+top_5.p
+user_item_matrix.p

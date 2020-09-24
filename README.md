@@ -1,6 +1,6 @@
 # DSND-P3-Recommendations-with-IBM
 
-For this project, I will build a recommendation system for IBM Watson Studio platform. I analyze the interactions that users have with articles, and make recommendations to them about new articles you think they will like. 
+For this project, I will build a recommendation system for IBM Watson Studio platform. I analyze the interactions that users have with articles, and make recommendations to them about new articles I think they will like. 
 
 <div align="center">
 <img src="assets/IBM_Waston_1.png" height="200" width="400">

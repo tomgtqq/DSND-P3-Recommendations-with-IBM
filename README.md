@@ -18,11 +18,8 @@ For this project, I will build a recommendation system for IBM Watson Studio pla
 
 ### File Descriptions <a name="files"></a>
 ```
-- Recommendations_with_IBM.ipynb
-- data
-|- articles_community.csv  # data to process 
-|- user-item-interactions.csv  # data to process
-- user_item_matrix.p # pickle file 
+- Recommendations_with_IBM.ipynb 
+- project_tests.py
 - README.md
 ```
 ### Built With
